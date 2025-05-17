@@ -64,7 +64,9 @@
 
 #### 🖼️ UI & GUI Frameworks
 <p align="center">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/PyQt_logo.svg/512px-PyQt_logo.svg.png" height="40" alt="PyQt"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/PyQt_logo.svg/2560px-PyQt_logo.svg.png" height="40" alt="PyQt"/>
+  &nbsp;&nbsp;
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/PyQt_logo.svg/512px-PyQt_logo.svg.png" height="40" alt="PyQt-Alt"/>
   &nbsp;&nbsp;
   <img src="https://kivy.org/logos/kivy-logo-black-64.png" height="40" alt="Kivy"/>
   &nbsp;&nbsp;
@@ -89,10 +91,7 @@
 
 ### 📄 Resume
 
-- 🔗 [Click to View My Resume](https://drive.google.com/file/d/1fGlTF-IDRGzBEv7QzpVnnJHaEjLNcmxX/view?usp=sharing)
-- 📧 Email: [vaibhav973vaibhav@gmail.com](mailto:vaibhav973vaibhav@gmail.com)  
-- 🔗 LinkedIn: [vaibhav7tripathi](https://www.linkedin.com/in/vaibhav7tripathi)  
-- 🧑‍💻 GitHub: [Vaibhav7Tripathi](https://github.com/Vaibhav7Tripathi)
+🔗 [Click to View My Resume](https://drive.google.com/file/d/1fGlTF-IDRGzBEv7QzpVnnJHaEjLNcmxX/view?usp=sharing)
 
 ---
 
