@@ -36,7 +36,7 @@
   &nbsp;&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="40" alt="Pandas"/>
   &nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scipy/scipy-original.svg" height="40" alt="SciPy"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/8/8a/SciPy_logo.svg" height="40" alt="SciPy"/>
   &nbsp;&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matplotlib/matplotlib-original.svg" height="40" alt="Matplotlib"/>
   &nbsp;&nbsp;
@@ -48,6 +48,7 @@
   &nbsp;&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg" height="40" alt="OpenCV"/>
 </p>
+
 
 #### 🧰 Other Technologies
 <p align="center">
@@ -62,20 +63,20 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="CSS"/>
 </p>
 
+
 #### 🖼️ UI & GUI Frameworks
 <p align="center">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/PyQt_logo.svg/2560px-PyQt_logo.svg.png" height="40" alt="PyQt"/>
+  <img src="https://banner2.cleanpng.com/20180508/zfw/kisspng-pyqt-pyside-widget-toolkit-graphical-user-interfac-5af1dc19d055b9.5854228115257999618534.jpg" height="40" alt="PyQt"/>
   &nbsp;&nbsp;
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/PyQt_logo.svg/512px-PyQt_logo.svg.png" height="40" alt="PyQt-Alt"/>
+  <img src="https://w7.pngwing.com/pngs/679/344/png-transparent-wing-ide-integrated-development-environment-python-computer-software-eric-raspberry-miscellaneous-monochrome-computer-program.png" height="40" alt="Tkinter"/>
   &nbsp;&nbsp;
   <img src="https://kivy.org/logos/kivy-logo-black-64.png" height="40" alt="Kivy"/>
-  &nbsp;&nbsp;
-  <img src="https://upload.wikimedia.org/wikipedia/commons/8/88/Tkinter_logo.png" height="40" alt="Tkinter"/>
   &nbsp;&nbsp;
   <img src="https://jupyter.org/assets/homepage/main-logo.svg" height="40" alt="Jupyter"/>
   &nbsp;&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/anaconda/anaconda-original.svg" height="40" alt="Anaconda"/>
 </p>
+
 
 ---
 
