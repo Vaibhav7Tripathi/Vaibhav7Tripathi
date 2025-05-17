@@ -1,7 +1,7 @@
 <h1 align="center">Hi there! I'm Vaibhav Tripathi 👋</h1>
 
 <h3 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2500&pause=800&color=1E90FF&center=true&width=435&lines=Data+Scientist;Machine+Learning+Engineer" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2500&pause=800&color=1E90FF&center=true&width=435&lines=Data+Scientist;Machine+Learning+Engineer;Data+Scientist" alt="Typing SVG" />
 </h3>
 
 <p align="center">
@@ -22,21 +22,52 @@
 ---
 
 ### 🛠️ Tech Stack
-<p align="center">
+
+#### 🚀 Languages
+<p>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" />
+</p>
+
+#### 🤖 Machine Learning & AI
+<p>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scikit-learn/scikit-learn-original.svg" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scipy/scipy-original.svg" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matplotlib/matplotlib-original.svg" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/keras/keras-original.svg" height="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" height="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" height="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg" height="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" />
+</p>
+
+#### 🛠 Other Technologies
+<p>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" />
 </p>
+
+<p>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Kivy_logo_as_vector.svg/512px-Kivy_logo_as_vector.svg.png" height="40" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/6/6b/PyQt_logo.png" height="40" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/c/c5/Tkinter.png" height="40" />
+  <img src="https://jupyter.org/assets/homepage/main-logo.svg" height="40" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/3/31/Anaconda_Logo.png" height="40" />
+</p>
+
+#### 🧠 IT Concepts
+- Data Structures & Algorithms  
+- Object-Oriented Programming  
+- DBMS, Operating Systems  
+
+#### 🌱 Soft Skills
+- Leadership  
+- Analytical Mind  
+- Emotional Intelligence  
+- Creativity & Innovation  
 
 ---
 
