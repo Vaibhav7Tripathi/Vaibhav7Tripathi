@@ -6,21 +6,26 @@
 
 <p align="center">
   <a href="mailto:vaibhav973vaibhav@gmail.com" title="Email">
-    <img src="https://cdn-icons-png.flaticon.com/512/732/732200.png" height="30" alt="Email" style="vertical-align: middle;" />
+    <img src="https://cdn-icons-png.flaticon.com/512/732/732200.png" height="30" alt="Email" />
+    <br><sub>Email</sub>
   </a>
-  &nbsp;&nbsp;
+  &nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://www.linkedin.com/in/vaibhav7tripathi/" title="LinkedIn">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" height="30" alt="LinkedIn" style="vertical-align: middle;" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" height="30" alt="LinkedIn" />
+    <br><sub>LinkedIn</sub>
   </a>
-  &nbsp;&nbsp;
+  &nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://github.com/Vaibhav7Tripathi" title="GitHub">
-    <img src="https://static-00.iconduck.com/assets.00/github-icon-2048x2048-dpporae2.png" height="30" alt="GitHub" style="vertical-align: middle;" />
+    <img src="https://static-00.iconduck.com/assets.00/github-icon-2048x2048-dpporae2.png" height="30" alt="GitHub" />
+    <br><sub>GitHub</sub>
   </a>
-  &nbsp;&nbsp;
+  &nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://www.instagram.com/vxibhxv_vt" title="Instagram">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/instagram/instagram-original.svg" height="30" alt="Instagram" style="vertical-align: middle;" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/instagram/instagram-original.svg" height="30" alt="Instagram" />
+    <br><sub>Instagram</sub>
   </a>
 </p>
+
 
 
 ---
