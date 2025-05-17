@@ -6,7 +6,7 @@
 
 <p align="center">
   <a href="mailto:vaibhav973vaibhav@gmail.com" title="Email">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" height="30" alt="Email" />
+    <img src="https://cdn-icons-png.flaticon.com/512/732/732200.png" height="30" alt="Email" />
   </a>
   &nbsp;&nbsp;
   <a href="https://www.linkedin.com/in/vaibhav7tripathi/" title="LinkedIn">
@@ -14,13 +14,14 @@
   </a>
   &nbsp;&nbsp;
   <a href="https://github.com/Vaibhav7Tripathi" title="GitHub">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="30" alt="GitHub" />
+    <img src="https://static-00.iconduck.com/assets.00/github-icon-2048x2048-dpporae2.png" height="30" alt="GitHub" />
   </a>
   &nbsp;&nbsp;
   <a href="https://www.instagram.com/vxibhxv_vt" title="Instagram">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/instagram/instagram-original.svg" height="30" alt="Instagram" />
   </a>
 </p>
+
 
 
 
@@ -69,7 +70,7 @@
 <p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="Git"/>
   &nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="GitHub"/>
+  <img src="https://static-00.iconduck.com/assets.00/github-icon-2048x2048-dpporae2.png" height="40" alt="GitHub"/>
   &nbsp;&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="MySQL"/>
   &nbsp;&nbsp;
