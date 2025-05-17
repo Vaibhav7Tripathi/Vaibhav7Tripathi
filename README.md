@@ -5,25 +5,10 @@
 </h3>
 
 <p align="center">
-  <a href="mailto:vaibhav973vaibhav@gmail.com">
-    <img src="https://img.icons8.com/ios-filled/50/000000/gmail.png" height="35" alt="Email"/><br/>
-    <sub>Email</sub>
-  </a>
-  &nbsp;&nbsp;&nbsp;
-  <a href="https://www.linkedin.com/in/vaibhav7tripathi/">
-    <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" height="35" alt="LinkedIn"/><br/>
-    <sub>LinkedIn</sub>
-  </a>
-  &nbsp;&nbsp;&nbsp;
-  <a href="https://github.com/Vaibhav7Tripathi">
-    <img src="https://static-00.iconduck.com/assets.00/github-icon-2048x2048-dpporae2.png" height="35" alt="GitHub"/><br/>
-    <sub>GitHub</sub>
-  </a>
-  &nbsp;&nbsp;&nbsp;
-  <a href="https://www.instagram.com/vxibhxv_vt">
-    <img src="https://cdn-icons-png.flaticon.com/512/174/174855.png" height="35" alt="Instagram"/><br/>
-    <sub>Instagram</sub>
-  </a>
+  <a href="mailto:vaibhav973vaibhav@gmail.com"><img src="https://img.shields.io/badge/email-%23D14836.svg?style=for-the-badge&logo=Gmail&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/vaibhav7tripathi/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=Linkedin&logoColor=white"/></a>
+  <a href="https://github.com/Vaibhav7Tripathi"><img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=Github&logoColor=white"/></a>
+  <a href="https://www.instagram.com/vxibhxv_vt"><img src="https://img.shields.io/badge/instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white"/></a>
 </p>
 
 ---
