@@ -62,12 +62,13 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="CSS"/>
 </p>
 
+#### 🖼️ UI & GUI Frameworks
 <p align="center">
-  <img src="https://raw.githubusercontent.com/kivy/kivy-website/master/images/kivy-logo-black-64.png" height="40" alt="Kivy"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/PyQt_logo.svg/512px-PyQt_logo.svg.png" height="40" alt="PyQt"/>
   &nbsp;&nbsp;
-  <img src="https://upload.wikimedia.org/wikipedia/commons/7/7e/PyQt_logo.svg" height="40" alt="PyQt"/>
+  <img src="https://kivy.org/logos/kivy-logo-black-64.png" height="40" alt="Kivy"/>
   &nbsp;&nbsp;
-  <img src="https://upload.wikimedia.org/wikipedia/commons/8/88/Tkinter_logo.png" height="40" alt="Tkinter" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/8/88/Tkinter_logo.png" height="40" alt="Tkinter"/>
   &nbsp;&nbsp;
   <img src="https://jupyter.org/assets/homepage/main-logo.svg" height="40" alt="Jupyter"/>
   &nbsp;&nbsp;
@@ -86,10 +87,12 @@
 
 ---
 
-### 📫 Contact Me
+### 📄 Resume
+
+- 🔗 [Click to View My Resume](https://drive.google.com/file/d/1fGlTF-IDRGzBEv7QzpVnnJHaEjLNcmxX/view?usp=sharing)
 - 📧 Email: [vaibhav973vaibhav@gmail.com](mailto:vaibhav973vaibhav@gmail.com)  
 - 🔗 LinkedIn: [vaibhav7tripathi](https://www.linkedin.com/in/vaibhav7tripathi)  
-- 📄 [Resume (Google Drive)](https://drive.google.com/file/d/1fGlTF-IDRGzBEv7QzpVnnJHaEjLNcmxX/view?usp=sharing)
+- 🧑‍💻 GitHub: [Vaibhav7Tripathi](https://github.com/Vaibhav7Tripathi)
 
 ---
 
