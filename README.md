@@ -5,11 +5,23 @@
 </h3>
 
 <p align="center">
-  <a href="mailto:vaibhav973vaibhav@gmail.com"><img src="https://img.shields.io/badge/email-%23D14836.svg?style=for-the-badge&logo=Gmail&logoColor=white" /></a>
-  <a href="https://www.linkedin.com/in/vaibhav7tripathi/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=Linkedin&logoColor=white"/></a>
-  <a href="https://github.com/Vaibhav7Tripathi"><img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=Github&logoColor=white"/></a>
-  <a href="https://www.instagram.com/vxibhxv_vt"><img src="https://img.shields.io/badge/instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white"/></a>
+  <a href="mailto:vaibhav973vaibhav@gmail.com" title="Email">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" height="30" alt="Email" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://www.linkedin.com/in/vaibhav7tripathi/" title="LinkedIn">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" height="30" alt="LinkedIn" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://github.com/Vaibhav7Tripathi" title="GitHub">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="30" alt="GitHub" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://www.instagram.com/vxibhxv_vt" title="Instagram">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/instagram/instagram-original.svg" height="30" alt="Instagram" />
+  </a>
 </p>
+
 
 
 ---
@@ -38,7 +50,7 @@
   &nbsp;&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="40" alt="Pandas"/>
   &nbsp;&nbsp;
-  <img src="https://upload.wikimedia.org/wikipedia/commons/8/8a/SciPy_logo.svg" height="40" alt="SciPy"/>
+  <img src="https://chanzuckerberg.com/wp-content/uploads/2022/11/scipy_logo.png" height="40" alt="SciPy"/>
   &nbsp;&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matplotlib/matplotlib-original.svg" height="40" alt="Matplotlib"/>
   &nbsp;&nbsp;
@@ -50,6 +62,7 @@
   &nbsp;&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg" height="40" alt="OpenCV"/>
 </p>
+
 
 
 #### 🧰 Other Technologies
