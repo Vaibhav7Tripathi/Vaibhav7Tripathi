@@ -1,7 +1,7 @@
 <h1 align="center">Hi there! I'm Vaibhav Tripathi 👋</h1>
 
 <h3 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2500&pause=800&color=1E90FF&center=true&width=435&lines=Data+Scientist;Machine+Learning+Engineer;Data+Scientist" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2500&pause=800&color=1E90FF&center=true&width=435&lines=Data+Scientist;Machine+Learning+Engineer" alt="Typing SVG" />
 </h3>
 
 <p align="center">
