@@ -13,77 +13,83 @@
 ---
 
 ### 👨‍💻 About Me
-- 🎓 Final-year B.Tech student majoring in **CSE - AI & ML** at LNCT Bhopal
-- 🧠 Passionate about turning raw data into actionable insights
-- 🏆 **GATE 2024 (Data Science & AI) Qualified** – AIR 4687, Score: 413
-- 🤖 Focused on predictive analytics, ML systems, and automation
-- 🛠️ Skilled in data wrangling, visualization, and model deployment
+- 🎓 Final-year B.Tech student majoring in **CSE - AI & ML** at LNCT Bhopal  
+- 🧠 Passionate about building intelligent solutions using data and algorithms  
+- 🏆 **GATE 2024 (DA) Qualified** – AIR 4687, Score: 413  
+- 🤖 Focused on predictive modeling, real-time analytics, and ML pipelines  
+- 🛠️ Strong command of full data science lifecycle: preprocessing to deployment  
 
 ---
 
 ### 🛠️ Tech Stack
 
 #### 🚀 Languages
-<p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" />
+<p align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="Python"/>
+  &nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="C++"/>
 </p>
 
 #### 🤖 Machine Learning & AI
-<p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scipy/scipy-original.svg" height="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matplotlib/matplotlib-original.svg" height="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/keras/keras-original.svg" height="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" height="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" height="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg" height="40" />
+<p align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="40" alt="NumPy"/>
+  &nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="40" alt="Pandas"/>
+  &nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scipy/scipy-original.svg" height="40" alt="SciPy"/>
+  &nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matplotlib/matplotlib-original.svg" height="40" alt="Matplotlib"/>
+  &nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/keras/keras-original.svg" height="40" alt="Keras"/>
+  &nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" height="40" alt="TensorFlow"/>
+  &nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" height="40" alt="PyTorch"/>
+  &nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg" height="40" alt="OpenCV"/>
 </p>
 
-#### 🛠 Other Technologies
-<p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" />
+#### 🧰 Other Technologies
+<p align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="Git"/>
+  &nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="GitHub"/>
+  &nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="MySQL"/>
+  &nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="HTML"/>
+  &nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="CSS"/>
 </p>
 
-<p>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Kivy_logo_as_vector.svg/512px-Kivy_logo_as_vector.svg.png" height="40" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/6/6b/PyQt_logo.png" height="40" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/c/c5/Tkinter.png" height="40" />
-  <img src="https://jupyter.org/assets/homepage/main-logo.svg" height="40" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/3/31/Anaconda_Logo.png" height="40" />
+<p align="center">
+  <img src="https://raw.githubusercontent.com/kivy/kivy-website/master/images/kivy-logo-black-64.png" height="40" alt="Kivy"/>
+  &nbsp;&nbsp;
+  <img src="https://upload.wikimedia.org/wikipedia/commons/7/7e/PyQt_logo.svg" height="40" alt="PyQt"/>
+  &nbsp;&nbsp;
+  <img src="https://upload.wikimedia.org/wikipedia/commons/8/88/Tkinter_logo.png" height="40" alt="Tkinter" />
+  &nbsp;&nbsp;
+  <img src="https://jupyter.org/assets/homepage/main-logo.svg" height="40" alt="Jupyter"/>
+  &nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/anaconda/anaconda-original.svg" height="40" alt="Anaconda"/>
 </p>
-
-#### 🧠 IT Concepts
-- Data Structures & Algorithms  
-- Object-Oriented Programming  
-- DBMS, Operating Systems  
-
-#### 🌱 Soft Skills
-- Leadership  
-- Analytical Mind  
-- Emotional Intelligence  
-- Creativity & Innovation  
 
 ---
 
 ### 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Vaibhav7Tripathi&show_icons=true&theme=radical&count_private=true" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vaibhav7Tripathi&layout=compact&theme=radical" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Vaibhav7Tripathi&show_icons=true&theme=radical&count_private=true" height="165"/>
+  &nbsp;&nbsp;
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vaibhav7Tripathi&layout=compact&theme=radical" height="165"/>
 </p>
 
 ---
 
 ### 📫 Contact Me
-- 📧 Email: [vaibhav973vaibhav@gmail.com](mailto:vaibhav973vaibhav@gmail.com)
-- 🔗 LinkedIn: [vaibhav7tripathi](https://www.linkedin.com/in/vaibhav7tripathi)
-- 📄 [Resume](https://drive.google.com/file/d/1fGlTF-IDRGzBEv7QzpVnnJHaEjLNcmxX/view?usp=sharing)
+- 📧 Email: [vaibhav973vaibhav@gmail.com](mailto:vaibhav973vaibhav@gmail.com)  
+- 🔗 LinkedIn: [vaibhav7tripathi](https://www.linkedin.com/in/vaibhav7tripathi)  
+- 📄 [Resume (Google Drive)](https://drive.google.com/file/d/1fGlTF-IDRGzBEv7QzpVnnJHaEjLNcmxX/view?usp=sharing)
 
 ---
 
