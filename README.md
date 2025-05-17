@@ -1,14 +1,16 @@
 <h1 align="center">Hi there! I'm Vaibhav Tripathi 👋</h1>
 
 <h3 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2500&pause=800&color=1E90FF&center=true&width=435&lines=Data+Scientist;Machine+Learning+Engineer;Data+Scientist" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2500&pause=800&color=1E90FF&center=true&width=435&lines=Data+Scientist;Machine+Learning+Engineer" alt="Typing SVG" />
 </h3>
 
 <p align="center">
   <a href="mailto:vaibhav973vaibhav@gmail.com"><img src="https://img.shields.io/badge/email-%23D14836.svg?style=for-the-badge&logo=Gmail&logoColor=white" /></a>
   <a href="https://www.linkedin.com/in/vaibhav7tripathi/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=Linkedin&logoColor=white"/></a>
   <a href="https://github.com/Vaibhav7Tripathi"><img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=Github&logoColor=white"/></a>
+  <a href="https://www.instagram.com/vxibhxv_vt"><img src="https://img.shields.io/badge/instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white"/></a>
 </p>
+
 
 ---
 
@@ -74,8 +76,11 @@
   &nbsp;&nbsp;
   <img src="https://jupyter.org/assets/homepage/main-logo.svg" height="40" alt="Jupyter"/>
   &nbsp;&nbsp;
+  <img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" height="40" alt="GitHub"/>
+  &nbsp;&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/anaconda/anaconda-original.svg" height="40" alt="Anaconda"/>
 </p>
+
 
 
 ---
