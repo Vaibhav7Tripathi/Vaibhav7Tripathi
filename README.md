@@ -53,7 +53,7 @@
 <p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40" style="vertical-align:middle;" alt="Git"/>
   &nbsp;&nbsp;
-  <img src="https://static-00.iconduck.com/assets.00/github-icon-2048x2048-dpporae2.png" width="40" height="40" style="vertical-align:middle;" alt="GitHub"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" height="40" style="vertical-align:middle;" alt="GitHub"/>
   &nbsp;&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" height="40" style="vertical-align:middle;" alt="MySQL"/>
   &nbsp;&nbsp;
@@ -72,7 +72,7 @@
   &nbsp;&nbsp;
   <img src="https://jupyter.org/assets/homepage/main-logo.svg" width="40" height="40" style="vertical-align:middle;" alt="Jupyter"/>
   &nbsp;&nbsp;
-  <img src="https://static-00.iconduck.com/assets.00/github-icon-2048x2048-dpporae2.png" width="40" height="40" style="vertical-align:middle;" alt="GitHub"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" height="40" style="vertical-align:middle;" alt="GitHub"/>
   &nbsp;&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/anaconda/anaconda-original.svg" width="40" height="40" style="vertical-align:middle;" alt="Anaconda"/>
 </p>
