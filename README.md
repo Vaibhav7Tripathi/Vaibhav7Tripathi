@@ -25,56 +25,56 @@
 
 #### 🚀 Languages
 <p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="Python"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40" style="vertical-align:middle;" alt="Python"/>
   &nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="C++"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="40" height="40" style="vertical-align:middle;" alt="C++"/>
 </p>
 
 #### 🤖 Machine Learning & AI
 <p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="40" alt="NumPy"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="40" height="40" style="vertical-align:middle;" alt="NumPy"/>
   &nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="40" alt="Pandas"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="40" height="40" style="vertical-align:middle;" alt="Pandas"/>
   &nbsp;&nbsp;
-  <img src="https://chanzuckerberg.com/wp-content/uploads/2022/11/scipy_logo.png" height="40" alt="SciPy"/>
+  <img src="https://chanzuckerberg.com/wp-content/uploads/2022/11/scipy_logo.png" width="40" height="40" style="vertical-align:middle;" alt="SciPy"/>
   &nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matplotlib/matplotlib-original.svg" height="40" alt="Matplotlib"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matplotlib/matplotlib-original.svg" width="40" height="40" style="vertical-align:middle;" alt="Matplotlib"/>
   &nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/keras/keras-original.svg" height="40" alt="Keras"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/keras/keras-original.svg" width="40" height="40" style="vertical-align:middle;" alt="Keras"/>
   &nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" height="40" alt="TensorFlow"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" width="40" height="40" style="vertical-align:middle;" alt="TensorFlow"/>
   &nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" height="40" alt="PyTorch"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" width="40" height="40" style="vertical-align:middle;" alt="PyTorch"/>
   &nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg" height="40" alt="OpenCV"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg" width="40" height="40" style="vertical-align:middle;" alt="OpenCV"/>
 </p>
 
 #### 🧰 Other Technologies
 <p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="Git"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40" style="vertical-align:middle;" alt="Git"/>
   &nbsp;&nbsp;
-  <img src="https://static-00.iconduck.com/assets.00/github-icon-2048x2048-dpporae2.png" height="40" alt="GitHub"/>
+  <img src="https://static-00.iconduck.com/assets.00/github-icon-2048x2048-dpporae2.png" width="40" height="40" style="vertical-align:middle;" alt="GitHub"/>
   &nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="MySQL"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" height="40" style="vertical-align:middle;" alt="MySQL"/>
   &nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="HTML"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" height="40" style="vertical-align:middle;" alt="HTML"/>
   &nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="CSS"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" height="40" style="vertical-align:middle;" alt="CSS"/>
 </p>
 
 #### 🖼️ UI & GUI Frameworks
 <p align="center">
-  <img src="https://banner2.cleanpng.com/20180508/zfw/kisspng-pyqt-pyside-widget-toolkit-graphical-user-interfac-5af1dc19d055b9.5854228115257999618534.jpg" height="40" alt="PyQt"/>
+  <img src="https://banner2.cleanpng.com/20180508/zfw/kisspng-pyqt-pyside-widget-toolkit-graphical-user-interfac-5af1dc19d055b9.5854228115257999618534.jpg" width="40" height="40" style="vertical-align:middle;" alt="PyQt"/>
   &nbsp;&nbsp;
-  <img src="https://w7.pngwing.com/pngs/679/344/png-transparent-wing-ide-integrated-development-environment-python-computer-software-eric-raspberry-miscellaneous-monochrome-computer-program.png" height="40" alt="Tkinter"/>
+  <img src="https://w7.pngwing.com/pngs/679/344/png-transparent-wing-ide-integrated-development-environment-python-computer-software-eric-raspberry-miscellaneous-monochrome-computer-program.png" width="40" height="40" style="vertical-align:middle;" alt="Tkinter"/>
   &nbsp;&nbsp;
-  <img src="https://kivy.org/logos/kivy-logo-black-64.png" height="40" alt="Kivy"/>
+  <img src="https://kivy.org/logos/kivy-logo-black-64.png" width="40" height="40" style="vertical-align:middle;" alt="Kivy"/>
   &nbsp;&nbsp;
-  <img src="https://jupyter.org/assets/homepage/main-logo.svg" height="40" alt="Jupyter"/>
+  <img src="https://jupyter.org/assets/homepage/main-logo.svg" width="40" height="40" style="vertical-align:middle;" alt="Jupyter"/>
   &nbsp;&nbsp;
-  <img src="https://static-00.iconduck.com/assets.00/github-icon-2048x2048-dpporae2.png" height="40" alt="GitHub"/>
+  <img src="https://static-00.iconduck.com/assets.00/github-icon-2048x2048-dpporae2.png" width="40" height="40" style="vertical-align:middle;" alt="GitHub"/>
   &nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/anaconda/anaconda-original.svg" height="40" alt="Anaconda"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/anaconda/anaconda-original.svg" width="40" height="40" style="vertical-align:middle;" alt="Anaconda"/>
 </p>
 
 ---
