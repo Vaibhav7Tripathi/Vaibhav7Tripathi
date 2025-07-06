@@ -5,11 +5,15 @@
 </h3>
 
 <p align="center">
-  <p align="center">
-  [![Email](https://img.shields.io/badge/email-%23D14836.svg?style=for-the-badge&logo=Gmail&logoColor=white)](mailto:vaibhav973vaibhav@gmail.com)
-  <a href="https://www.linkedin.com/in/vaibhav7tripathi/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=Linkedin&logoColor=white"/></a>
-  <a href="https://github.com/Vaibhav7Tripathi"><img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=Github&logoColor=white"/></a>
-  <a href="https://www.instagram.com/vxibhxv_vt"><img src="https://img.shields.io/badge/instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white"/></a>
+  <a href="mailto:vaibhav973vaibhav@gmail.com">
+    <img src="https://img.shields.io/badge/email-%23D14836.svg?style=for-the-badge&logo=Gmail&logoColor=white" alt="Email" />
+  </a>
+  <a href="https://www.linkedin.com/in/vaibhav7tripathi/">
+    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=Linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://www.instagram.com/vxibhxv_vt">
+    <img src="https://img.shields.io/badge/instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" alt="Instagram" />
+  </a>
 </p>
 
 ---
