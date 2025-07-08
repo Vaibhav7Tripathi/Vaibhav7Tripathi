@@ -22,7 +22,7 @@
 - 🏆 **GATE 2024 (DA) Qualified** – AIR 4687, Score: 413  
 - 🎓 Final-year B.Tech student majoring in **CSE - AIML** at LNCT Bhopal  
 - 🧠 Passionate about building intelligent solutions using data and algorithms  
-- 🛠️ Strong command of full data science lifecycle: preprocessing to deployment  
+- 🛠️ Strong command of full data science lifecycle: Preprocessing to Deployment  
 
 ---
 
