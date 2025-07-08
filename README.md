@@ -90,24 +90,16 @@
   <img src="https://github-readme-stats.vercel.app/api?username=Vaibhav7Tripathi&show_icons=true&theme=radical&count_private=true&cache_seconds=3600" height="165"/>
   &nbsp;&nbsp;
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vaibhav7Tripathi&layout=compact&theme=radical&cache_seconds=3600" height="165"/>
+  <br><br>
+  <img src="https://komarev.com/ghpvc/?username=Vaibhav7Tripathi&label=Profile%20Visits&color=0e75b6&style=flat-square" alt="Profile views"/>
 </p>
 
 ---
 
 ### 📄 Resume
 
-<table width="100%">
-  <tr>
-    <td align="left">
-      🔗 <a href="https://drive.google.com/file/d/1H9UKECN5zMzRSXIpCf9QDSNXzWOoaJOJ/view?usp=sharing"><strong>Click to View My Resume</strong></a>
-    </td>
-    <td align="right">
-      <img src="https://komarev.com/ghpvc/?username=Vaibhav7Tripathi&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile views"/>
-    </td>
-  </tr>
-</table>
+🔗 [Click to View My Resume](https://drive.google.com/file/d/1H9UKECN5zMzRSXIpCf9QDSNXzWOoaJOJ/view?usp=sharing)
 
 ---
-
 
 _“Driven by data. Inspired by insight.”_
