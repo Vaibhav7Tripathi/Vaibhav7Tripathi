@@ -94,16 +94,15 @@
 
 ---
 
+### 📄 Resume
+
 <table width="100%">
   <tr>
     <td align="left">
-      <h3>📄 Resume</h3>
-      <a href="https://drive.google.com/file/d/1H9UKECN5zMzRSXIpCf9QDSNXzWOoaJOJ/view?usp=sharing">
-        🔗 <b>Click to View My Resume</b>
-      </a>
+      🔗 <a href="https://drive.google.com/file/d/1H9UKECN5zMzRSXIpCf9QDSNXzWOoaJOJ/view?usp=sharing"><strong>Click to View My Resume</strong></a>
     </td>
     <td align="right">
-      <img src="https://komarev.com/ghpvc/?username=Vaibhav7Tripathi&label=Profile%20Visits&color=0e75b6&style=flat-square" alt="GitHub Profile Views">
+      <img src="https://komarev.com/ghpvc/?username=Vaibhav7Tripathi&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile views"/>
     </td>
   </tr>
 </table>
