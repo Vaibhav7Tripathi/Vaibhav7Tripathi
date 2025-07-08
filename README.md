@@ -96,14 +96,14 @@
 
 <table width="100%">
   <tr>
-    <td align="left" valign="middle">
+    <td align="left">
       <h3>📄 Resume</h3>
       <a href="https://drive.google.com/file/d/1H9UKECN5zMzRSXIpCf9QDSNXzWOoaJOJ/view?usp=sharing">
-        🔗 <strong>Click to View My Resume</strong>
+        🔗 <b>Click to View My Resume</b>
       </a>
     </td>
-    <td align="right" valign="middle">
-      <img src="https://komarev.com/ghpvc/?username=Vaibhav7Tripathi&label=Profile%20Visits&color=0e75b6&style=flat" alt="GitHub profile views"/>
+    <td align="right">
+      <img src="https://komarev.com/ghpvc/?username=Vaibhav7Tripathi&label=Profile%20Visits&color=0e75b6&style=flat-square" alt="GitHub Profile Views">
     </td>
   </tr>
 </table>
