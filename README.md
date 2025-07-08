@@ -99,5 +99,9 @@
 🔗 [Click to View My Resume](https://drive.google.com/file/d/1H9UKECN5zMzRSXIpCf9QDSNXzWOoaJOJ/view?usp=sharing)
 
 ---
+<p align="right">
+  <img src="https://komarev.com/ghpvc/?username=Vaibhav7Tripathi&label=Profile%20Views&color=0e75b6&style=flat" alt="Vaibhav7Tripathi" />
+</p>
+---
 
 _“Driven by data. Inspired by insight.”_
