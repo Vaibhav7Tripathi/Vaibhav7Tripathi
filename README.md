@@ -14,6 +14,9 @@
   <a href="https://www.instagram.com/vxibhxv_vt">
     <img src="https://img.shields.io/badge/instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" alt="Instagram" />
   </a>
+  <a href="https://linktr.ee/VaibhavTripathi">
+    <img src="https://img.shields.io/badge/Linktree-000000.svg?style=for-the-badge&logo=Linktree&logoColor=white" alt="Linktree" />
+  </a>
 </p>
 
 ---
