@@ -105,4 +105,4 @@
 
 ---
 
-_“Driven by data. Inspired by insight.”_
+_Driven by data. Inspired by insight. Powered by curiosity._
