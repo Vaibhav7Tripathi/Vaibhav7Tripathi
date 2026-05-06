@@ -22,7 +22,7 @@
 ---
 
 ### 👨‍💻 About Me
-- 🏆 **GATE 2024 (DA) Qualified** – AIR 4687, Score: 413  
+- 🏆 **2× GATE Qualified** – Best AIR 3737 in GATE DA 2025
 - 🎓 Final-year B.Tech student majoring in **CSE - AIML** at LNCT Bhopal  
 - 🧠 Passionate about building intelligent solutions using data and algorithms  
 - 🛠️ Strong command of full data science lifecycle: Preprocessing to Deployment  
@@ -51,30 +51,21 @@
 
 #### 🧰 Other Technologies
 <p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40" style="vertical-align:middle;" alt="Git"/>
-  &nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" height="40" style="vertical-align:middle;" alt="GitHub"/>
-  &nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" height="40" style="vertical-align:middle;" alt="MySQL"/>
-  &nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" height="40" style="vertical-align:middle;" alt="HTML"/>
-  &nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" height="40" style="vertical-align:middle;" alt="CSS"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="35" alt="Git"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="35" alt="GitHub"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="35" alt="MySQL"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="35" alt="HTML"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="35" alt="CSS"/>
 </p>
 
 #### 🖼️ UI & GUI Frameworks
 <p align="center">
-  <img src="https://banner2.cleanpng.com/20180508/zfw/kisspng-pyqt-pyside-widget-toolkit-graphical-user-interfac-5af1dc19d055b9.5854228115257999618534.jpg" width="40" height="40" style="vertical-align:middle;" alt="PyQt"/>
-  &nbsp;&nbsp;
-  <img src="https://w7.pngwing.com/pngs/679/344/png-transparent-wing-ide-integrated-development-environment-python-computer-software-eric-raspberry-miscellaneous-monochrome-computer-program.png" width="40" height="40" style="vertical-align:middle;" alt="Tkinter"/>
-  &nbsp;&nbsp;
-  <img src="https://kivy.org/logos/kivy-logo-black-64.png" width="40" height="40" style="vertical-align:middle;" alt="Kivy"/>
-  &nbsp;&nbsp;
-  <img src="https://jupyter.org/assets/homepage/main-logo.svg" width="40" height="40" style="vertical-align:middle;" alt="Jupyter"/>
-  &nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" height="40" style="vertical-align:middle;" alt="GitHub"/>
-  &nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/anaconda/anaconda-original.svg" width="40" height="40" style="vertical-align:middle;" alt="Anaconda"/>
+  <img src="https://banner2.cleanpng.com/20180508/zfw/kisspng-pyqt-pyside-widget-toolkit-graphical-user-interfac-5af1dc19d055b9.5854228115257999618534.jpg" width="35" alt="PyQt"/>
+  <img src="https://w7.pngwing.com/pngs/679/344/png-transparent-wing-ide-integrated-development-environment-python-computer-software-eric-raspberry-miscellaneous-monochrome-computer-program.png" width="35" alt="Tkinter"/>
+  <img src="https://kivy.org/logos/kivy-logo-black-64.png" width="35" alt="Kivy"/>
+  <img src="https://jupyter.org/assets/homepage/main-logo.svg" width="35" alt="Jupyter"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="35" alt="GitHub"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/anaconda/anaconda-original.svg" width="35" alt="Anaconda"/>
 </p>
 
 ---
