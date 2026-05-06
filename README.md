@@ -33,26 +33,9 @@
 
 #### 🚀 Languages
 <p align="center">
-
-<span align="center">
-  <img 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" 
-    width="40" 
-    alt="Python"
-  /><br>
-  Python
-</span>
-
-&nbsp;&nbsp;&nbsp;&nbsp;
-
-<span align="center">
-  <img 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" 
-    width="40" 
-    alt="C++"
-  /><br>
-  C++
-</span>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="35" alt="Python"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="35" alt="C++"/>
+</p>
 
 </p>
 
