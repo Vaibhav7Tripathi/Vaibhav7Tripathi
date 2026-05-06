@@ -38,47 +38,62 @@
 </p>
 
 #### 🤖 Machine Learning & AI
-#### 🤖 Machine Learning & AI
 
 <p align="center">
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="35" alt="NumPy"/><br>
-NumPy
+<span align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="35" alt="NumPy"/><br>
+  NumPy
+</span>
 
-&nbsp;&nbsp;&nbsp;&nbsp;
+&nbsp;&nbsp;
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="35" alt="Pandas"/><br>
-Pandas
+<span align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="35" alt="Pandas"/><br>
+  Pandas
+</span>
 
-&nbsp;&nbsp;&nbsp;&nbsp;
+&nbsp;&nbsp;
 
-<img src="https://chanzuckerberg.com/wp-content/uploads/2022/11/scipy_logo.png" width="35" alt="SciPy"/><br>
-SciPy
+<span align="center">
+  <img src="https://chanzuckerberg.com/wp-content/uploads/2022/11/scipy_logo.png" width="35" alt="SciPy"/><br>
+  SciPy
+</span>
 
-&nbsp;&nbsp;&nbsp;&nbsp;
+&nbsp;&nbsp;
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matplotlib/matplotlib-original.svg" width="35" alt="Matplotlib"/><br>
-Matplotlib
+<span align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matplotlib/matplotlib-original.svg" width="35" alt="Matplotlib"/><br>
+  Matplotlib
+</span>
 
-&nbsp;&nbsp;&nbsp;&nbsp;
+&nbsp;&nbsp;
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/keras/keras-original.svg" width="35" alt="Keras"/><br>
-Keras
+<span align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/keras/keras-original.svg" width="35" alt="Keras"/><br>
+  Keras
+</span>
 
-&nbsp;&nbsp;&nbsp;&nbsp;
+&nbsp;&nbsp;
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" width="35" alt="TensorFlow"/><br>
-TensorFlow
+<span align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" width="35" alt="TensorFlow"/><br>
+  TensorFlow
+</span>
 
-&nbsp;&nbsp;&nbsp;&nbsp;
+&nbsp;&nbsp;
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" width="35" alt="PyTorch"/><br>
-PyTorch
+<span align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" width="35" alt="PyTorch"/><br>
+  PyTorch
+</span>
 
-&nbsp;&nbsp;&nbsp;&nbsp;
+&nbsp;&nbsp;
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg" width="35" alt="OpenCV"/><br>
-OpenCV
+<span align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg" width="35" alt="OpenCV"/><br>
+  OpenCV
+</span>
 
 </p>
 
