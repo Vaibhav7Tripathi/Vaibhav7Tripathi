@@ -38,63 +38,15 @@
 </p>
 
 #### 🤖 Machine Learning & AI
-
 <p align="center">
-
-<span align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="35" alt="NumPy"/><br>
-  NumPy
-</span>
-
-&nbsp;&nbsp;
-
-<span align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="35" alt="Pandas"/><br>
-  Pandas
-</span>
-
-&nbsp;&nbsp;
-
-<span align="center">
-  <img src="https://chanzuckerberg.com/wp-content/uploads/2022/11/scipy_logo.png" width="35" alt="SciPy"/><br>
-  SciPy
-</span>
-
-&nbsp;&nbsp;
-
-<span align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matplotlib/matplotlib-original.svg" width="35" alt="Matplotlib"/><br>
-  Matplotlib
-</span>
-
-&nbsp;&nbsp;
-
-<span align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/keras/keras-original.svg" width="35" alt="Keras"/><br>
-  Keras
-</span>
-
-&nbsp;&nbsp;
-
-<span align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" width="35" alt="TensorFlow"/><br>
-  TensorFlow
-</span>
-
-&nbsp;&nbsp;
-
-<span align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" width="35" alt="PyTorch"/><br>
-  PyTorch
-</span>
-
-&nbsp;&nbsp;
-
-<span align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg" width="35" alt="OpenCV"/><br>
-  OpenCV
-</span>
-
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="35" alt="NumPy"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="35" alt="Pandas"/>
+  <img src="https://chanzuckerberg.com/wp-content/uploads/2022/11/scipy_logo.png" width="35" alt="SciPy"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matplotlib/matplotlib-original.svg" width="35" alt="Matplotlib"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/keras/keras-original.svg" width="35" alt="Keras"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" width="35" alt="TensorFlow"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" width="35" alt="PyTorch"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg" width="35" alt="OpenCV"/>
 </p>
 
 #### 🧰 Other Technologies
