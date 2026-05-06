@@ -34,8 +34,7 @@
 #### 🚀 Languages
 <p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40" style="vertical-align:middle;" alt="Python"/>
-  &nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="40" height="40" style="vertical-align:middle;" alt="C++"/>
+  &nbsp;&nbsp; <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="40" height="40" style="vertical-align:middle;" alt="C++"/>
 </p>
 
 #### 🤖 Machine Learning & AI
@@ -83,18 +82,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" height="40" style="vertical-align:middle;" alt="GitHub"/>
   &nbsp;&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/anaconda/anaconda-original.svg" width="40" height="40" style="vertical-align:middle;" alt="Anaconda"/>
-</p>
-
----
-
-### 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Vaibhav7Tripathi&show_icons=true&theme=radical&count_private=true&cache_seconds=3600" height="165"/>
-  &nbsp;&nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vaibhav7Tripathi&layout=compact&theme=radical&cache_seconds=3600" height="165"/>
-  <br><br>
-  <img src="https://komarev.com/ghpvc/?username=Vaibhav7Tripathi&label=Profile%20Visits&color=0e75b6&style=flat-square" alt="Profile views"/>
 </p>
 
 ---
