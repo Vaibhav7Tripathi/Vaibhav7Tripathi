@@ -1,7 +1,7 @@
 <h1 align="center">Hi there! I'm Vaibhav Tripathi 👋</h1>
 
 <h3 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2500&pause=800&color=1E90FF&center=true&width=500&lines=Data+Scientist;Machine+Learning+Engineer" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2500&pause=800&color=1E90FF&center=true&width=435&lines=Data+Scientist;Machine+Learning+Engineer" alt="Typing SVG" />
 </h3>
 
 <p align="center">
@@ -22,54 +22,67 @@
 ---
 
 ### 👨‍💻 About Me
-
-- 🏆 **2× GATE Qualified** – Best AIR 4687 in GATE DA 2024 (Score: 413)
-- 🎓 Final-year B.Tech student majoring in **CSE - AIML** at LNCT Bhopal
-- 🧠 Passionate about building intelligent solutions using data and algorithms
-- 🛠️ Strong command of the complete data science lifecycle: preprocessing to deployment
+- 🏆 **GATE 2024 (DA) Qualified** – AIR 4687, Score: 413  
+- 🎓 Final-year B.Tech student majoring in **CSE - AIML** at LNCT Bhopal  
+- 🧠 Passionate about building intelligent solutions using data and algorithms  
+- 🛠️ Strong command of full data science lifecycle: Preprocessing to Deployment  
 
 ---
 
 ### 🛠️ Tech Stack
 
+#### 🚀 Languages
 <p align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40" style="vertical-align:middle;" alt="Python"/>
+  &nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="40" height="40" style="vertical-align:middle;" alt="C++"/>
+</p>
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="45" height="45" alt="Python"/>
-&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="45" height="45" alt="C++"/>
-&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="45" height="45" alt="NumPy"/>
-&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="45" height="45" alt="Pandas"/>
-&nbsp;
-<img src="https://chanzuckerberg.com/wp-content/uploads/2022/11/scipy_logo.png" width="45" height="45" alt="SciPy"/>
-&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matplotlib/matplotlib-original.svg" width="45" height="45" alt="Matplotlib"/>
-&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/keras/keras-original.svg" width="45" height="45" alt="Keras"/>
-&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" width="45" height="45" alt="TensorFlow"/>
-&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" width="45" height="45" alt="PyTorch"/>
-&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg" width="45" height="45" alt="OpenCV"/>
-&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="45" height="45" alt="Git"/>
-&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="45" height="45" alt="GitHub"/>
-&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="45" height="45" alt="MySQL"/>
-&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="45" height="45" alt="HTML"/>
-&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="45" height="45" alt="CSS"/>
-&nbsp;
-<img src="https://kivy.org/logos/kivy-logo-black-64.png" width="45" height="45" alt="Kivy"/>
-&nbsp;
-<img src="https://jupyter.org/assets/homepage/main-logo.svg" width="45" height="45" alt="Jupyter"/>
-&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/anaconda/anaconda-original.svg" width="45" height="45" alt="Anaconda"/>
+#### 🤖 Machine Learning & AI
+<p align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="40" height="40" style="vertical-align:middle;" alt="NumPy"/>
+  &nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="40" height="40" style="vertical-align:middle;" alt="Pandas"/>
+  &nbsp;&nbsp;
+  <img src="https://chanzuckerberg.com/wp-content/uploads/2022/11/scipy_logo.png" width="40" height="40" style="vertical-align:middle;" alt="SciPy"/>
+  &nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matplotlib/matplotlib-original.svg" width="40" height="40" style="vertical-align:middle;" alt="Matplotlib"/>
+  &nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/keras/keras-original.svg" width="40" height="40" style="vertical-align:middle;" alt="Keras"/>
+  &nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" width="40" height="40" style="vertical-align:middle;" alt="TensorFlow"/>
+  &nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" width="40" height="40" style="vertical-align:middle;" alt="PyTorch"/>
+  &nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg" width="40" height="40" style="vertical-align:middle;" alt="OpenCV"/>
+</p>
 
+#### 🧰 Other Technologies
+<p align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40" style="vertical-align:middle;" alt="Git"/>
+  &nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" height="40" style="vertical-align:middle;" alt="GitHub"/>
+  &nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" height="40" style="vertical-align:middle;" alt="MySQL"/>
+  &nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" height="40" style="vertical-align:middle;" alt="HTML"/>
+  &nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" height="40" style="vertical-align:middle;" alt="CSS"/>
+</p>
+
+#### 🖼️ UI & GUI Frameworks
+<p align="center">
+  <img src="https://banner2.cleanpng.com/20180508/zfw/kisspng-pyqt-pyside-widget-toolkit-graphical-user-interfac-5af1dc19d055b9.5854228115257999618534.jpg" width="40" height="40" style="vertical-align:middle;" alt="PyQt"/>
+  &nbsp;&nbsp;
+  <img src="https://w7.pngwing.com/pngs/679/344/png-transparent-wing-ide-integrated-development-environment-python-computer-software-eric-raspberry-miscellaneous-monochrome-computer-program.png" width="40" height="40" style="vertical-align:middle;" alt="Tkinter"/>
+  &nbsp;&nbsp;
+  <img src="https://kivy.org/logos/kivy-logo-black-64.png" width="40" height="40" style="vertical-align:middle;" alt="Kivy"/>
+  &nbsp;&nbsp;
+  <img src="https://jupyter.org/assets/homepage/main-logo.svg" width="40" height="40" style="vertical-align:middle;" alt="Jupyter"/>
+  &nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" height="40" style="vertical-align:middle;" alt="GitHub"/>
+  &nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/anaconda/anaconda-original.svg" width="40" height="40" style="vertical-align:middle;" alt="Anaconda"/>
 </p>
 
 ---
@@ -78,28 +91,18 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Vaibhav7Tripathi&show_icons=true&theme=radical&count_private=true&cache_seconds=3600" height="165"/>
-  
+  &nbsp;&nbsp;
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vaibhav7Tripathi&layout=compact&theme=radical&cache_seconds=3600" height="165"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Vaibhav7Tripathi&theme=radical" height="165"/>
-</p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Vaibhav7Tripathi&label=Profile%20Views&color=0e75b6&style=flat-square" alt="Profile views"/>
+  <br><br>
+  <img src="https://komarev.com/ghpvc/?username=Vaibhav7Tripathi&label=Profile%20Visits&color=0e75b6&style=flat-square" alt="Profile views"/>
 </p>
 
 ---
 
 ### 📄 Resume
 
-<p align="center">
-  <a href="https://drive.google.com/file/d/1H9UKECN5zMzRSXIpCf9QDSNXzWOoaJOJ/view?usp=sharing">
-    <img src="https://img.shields.io/badge/View%20Resume-4285F4?style=for-the-badge&logo=google-drive&logoColor=white"/>
-  </a>
-</p>
+🔗 [Click to View My Resume](https://drive.google.com/file/d/1H9UKECN5zMzRSXIpCf9QDSNXzWOoaJOJ/view?usp=sharing)
 
 ---
 
-<h3 align="center">✨ Driven by data. Inspired by insight. Powered by curiosity. ✨</h3>
+_Driven by data. Inspired by insight. Powered by curiosity._
