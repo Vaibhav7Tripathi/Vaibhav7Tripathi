@@ -43,9 +43,6 @@
   /><br>
   Python
 </td>
-
-<td width="25"></td>
-
 <td align="center">
   <img 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" 
