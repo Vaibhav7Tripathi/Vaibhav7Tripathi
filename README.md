@@ -32,10 +32,31 @@
 ### 🛠️ Tech Stack
 
 #### 🚀 Languages
-<p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="35" alt="Python"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="35" alt="C++"/>
-</p>
+<table align="center">
+<tr>
+
+<td align="center">
+  <img 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" 
+    width="40" 
+    alt="Python"
+  /><br>
+  Python
+</td>
+
+<td width="25"></td>
+
+<td align="center">
+  <img 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" 
+    width="40" 
+    alt="C++"
+  /><br>
+  C++
+</td>
+
+</tr>
+</table>
 
 #### 🤖 Machine Learning & AI
 <p align="center">
